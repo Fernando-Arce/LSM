@@ -1,0 +1,13 @@
+tensorflow==2.17.0
+gTTS==2.5.1
+mediapipe==0.10.11
+opencv-python==4.10.0.84
+pandas==2.2.2
+pygame==2.5.2
+tk==0.1.0
+tables==3.9.2
+natsort==8.4.0
+cvzone==1.6.1
+matplitlib
+scikit-learn==1.5.1
+seaborn
